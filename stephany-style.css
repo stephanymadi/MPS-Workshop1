@@ -1,0 +1,176 @@
+/* FIRST ITERATION */
+
+body.stephany-1 {
+  background: black ;
+  color: white;
+  font-family: 'syncopate', sans-serif ;
+  margin: 0px ;
+  list-style-type: none;
+  text-align: left;
+  
+  
+}
+body.stephany-1 .one {
+  font-family: 'syncopate';
+  font-size: 250px;
+  margin-top: 20px;
+
+  line-height: 220px;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: left;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.stephany-1 .two {
+  float: right;
+  margin-top: -490px;
+
+  letter-spacing: 15px;
+
+  
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+
+marquee { 
+  color: red;
+  font-size: 500px;
+  padding: 280px;
+  margin-top: -1000px;
+  text-transform: uppercase;
+
+}
+
+
+body.stephany-1 .three{
+  line-height: 30px;
+  margin-top: -750px;
+  padding: 200px;
+  font-size: 10px;
+  margin-right: 100px;
+  float: right;
+  opacity: 0.5;
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+
+
+/* SECOND ITERATION */
+
+
+body.stephany-2 {
+  background: red ;
+  color: black;
+  font-family: 'arial', sans-serif ;
+  letter-spacing: 100px;
+  float: center;
+  text-align: center;
+  margin-left: 120px ;
+  list-style-type: none;
+
+  
+}
+body.stephany-2 .one {
+  text-transform: uppercase;
+  font-style: italic;
+  margin-bottom: 50px;
+  font-size: 80px;
+  font-family: ;
+  
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.stephany-2 .two {
+  line-height: 20px;
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+body.stephany-2 .three{
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+
+/* THIRD ITERATION */
+
+
+body.stephany-3 {
+  font-family: 'arial';
+  text-transform: uppercase;
+  width: 500px;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  background: #e1ad01;
+  list-style-type: none;
+  opacity: ;
+}
+
+body.stephany-3 .one {
+  font-family: ;
+  font-size: 500px;
+  margin-top: -50px
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.stephany-3 .two {
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
+
+body.stephany-3 .three{
+  font-family: ;
+  font-size: ;
+  font-weight: ;
+  text-decoration: ;
+  text-align: ;
+  padding: ;
+  color: ;
+  opacity: ;
+}
